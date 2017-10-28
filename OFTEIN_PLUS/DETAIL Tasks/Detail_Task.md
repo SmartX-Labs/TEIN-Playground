@@ -1,0 +1,5 @@
+![oftein _detailtasks1](https://user-images.githubusercontent.com/30137669/32134503-7b778e46-bc29-11e7-9a11-1d178173ee6f.png)
+![oftein _task 3](https://user-images.githubusercontent.com/30137669/32134520-bd517c46-bc29-11e7-9500-3c91cc68afab.png)
+![oftein _task 4](https://user-images.githubusercontent.com/30137669/32134535-ffca7cb2-bc29-11e7-84c2-74b73dc12328.png)
+![oftein _task 5](https://user-images.githubusercontent.com/30137669/32134548-2419b826-bc2a-11e7-83bc-62caf8aa4254.png)
+![oftein _task_other_players](https://user-images.githubusercontent.com/30137669/32134562-54ab7d62-bc2a-11e7-8b37-2e1a234e5ed4.png)
