@@ -30,6 +30,6 @@ Agenda
 6.	Hardware model (especially for access box) and decide the reseller location
 7.	Any Other Matter
 
-https://user-images.githubusercontent.com/30137669/32134667-23d8681e-bc2d-11e7-949d-1f7c5155596f.png
 
 ![oftein _meetings_sept_1](https://user-images.githubusercontent.com/30137669/32134667-23d8681e-bc2d-11e7-949d-1f7c5155596f.png)
+![oftein _meetings_sept_2](https://user-images.githubusercontent.com/30137669/32134677-5f1ea316-bc2d-11e7-83dd-bc8cbb79841f.png)
