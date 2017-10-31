@@ -11,7 +11,7 @@ MYREN Network and Distributed WG Chair
  Professor, School of Information & Communications, GIST, Gwangju, KOREA
  APAN Technology Area Director (2014~) & APAN Cloud WG Co-Chair (2014~)
 
-![oftein sponsored](https://user-images.githubusercontent.com/30137669/32134370-045b01b4-bc27-11e7-8c16-709b1ea53b3a.png)l
+
 ![from oftein to oftein](https://user-images.githubusercontent.com/30137669/32134393-71489106-bc27-11e7-985a-8716c0c5260f.png)
 
 # 1   Executive Summary
