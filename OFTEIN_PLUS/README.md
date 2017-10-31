@@ -1,6 +1,6 @@
 ![oftein introduction](https://user-images.githubusercontent.com/30137669/32134358-e11856b6-bc26-11e7-8e09-1a73b34c102d.png)
-![oftein mailinglist_blue](https://user-images.githubusercontent.com/30137669/32134410-f12675b4-bc27-11e7-9545-e73af3a1dfdf.png)
-![oftein sponsored](https://user-images.githubusercontent.com/30137669/32134370-045b01b4-bc27-11e7-8c16-709b1ea53b3a.png)
+![oftein mailinglist_2](https://user-images.githubusercontent.com/30137669/32204998-0e1b3204-be30-11e7-8d12-70a18f1a4d12.png)
+![oftein sponsored](https://user-images.githubusercontent.com/30137669/32134370-045b01b4-bc27-11e7-8c16-709b1ea53b3a.png)l
 ![oftein 2012 2016](https://user-images.githubusercontent.com/30137669/32134374-2c5bd67a-bc27-11e7-83d7-37de8b74f6d0.png)
 ![from oftein to oftein](https://user-images.githubusercontent.com/30137669/32134393-71489106-bc27-11e7-985a-8716c0c5260f.png)
 ![openfederation_oftein](https://user-images.githubusercontent.com/30137669/32134429-5a71dc70-bc28-11e7-9fc5-6e27742380dd.png)
