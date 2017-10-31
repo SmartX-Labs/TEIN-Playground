@@ -11,9 +11,7 @@ MYREN Network and Distributed WG Chair
  Professor, School of Information & Communications, GIST, Gwangju, KOREA
  APAN Technology Area Director (2014~) & APAN Cloud WG Co-Chair (2014~)
 
-![oftein mailinglist_2](https://user-images.githubusercontent.com/30137669/32204998-0e1b3204-be30-11e7-8d12-70a18f1a4d12.png)
-
-![oftein 2012 2016](https://user-images.githubusercontent.com/30137669/32134374-2c5bd67a-bc27-11e7-83d7-37de8b74f6d0.png)
+![oftein sponsored](https://user-images.githubusercontent.com/30137669/32134370-045b01b4-bc27-11e7-8c16-709b1ea53b3a.png)l
 ![from oftein to oftein](https://user-images.githubusercontent.com/30137669/32134393-71489106-bc27-11e7-985a-8716c0c5260f.png)
 ![openfederation_oftein](https://user-images.githubusercontent.com/30137669/32134429-5a71dc70-bc28-11e7-9fc5-6e27742380dd.png)
 
@@ -42,7 +40,8 @@ In order to bring OF@TEIN+ to a greater height, a project team with members from
 
 TEAM MEMBERS: 
 
-![oftein sponsored](https://user-images.githubusercontent.com/30137669/32134370-045b01b4-bc27-11e7-8c16-709b1ea53b3a.png)l
+![oftein 2012 2016](https://user-images.githubusercontent.com/30137669/32134374-2c5bd67a-bc27-11e7-83d7-37de8b74f6d0.png)
+
 
 The project team will ensure the aims and goals of OF@TEIN+ are achieved according to current best practices. 
 
