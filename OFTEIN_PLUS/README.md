@@ -38,7 +38,8 @@ In order to bring OF@TEIN+ to a greater height, a project team with members from
 
 TEAM MEMBERS: 
 
-![oftein 2012 2016](https://user-images.githubusercontent.com/30137669/32134374-2c5bd67a-bc27-11e7-83d7-37de8b74f6d0.png)
+![proposal_3](https://user-images.githubusercontent.com/30137669/32212418-fec4f216-be59-11e7-8d86-30a347bac2e0.png)
+
 
 
 The project team will ensure the aims and goals of OF@TEIN+ are achieved according to current best practices. 
