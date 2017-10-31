@@ -14,7 +14,7 @@ MYREN Network and Distributed WG Chair
 
 ![from oftein to oftein](https://user-images.githubusercontent.com/30137669/32134393-71489106-bc27-11e7-985a-8716c0c5260f.png)
 
-# 1   Executive Summary
+# Executive Summary
 
 
 1. Gather and Learn Together: Expanding the OF@TEIN Community and Sharing the Knowledge about Open and Federated (i.e., shared) SDN/NFV/Cloud-integrated Playground amongst the Members.
