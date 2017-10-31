@@ -64,7 +64,7 @@ The project team will ensure the aims and goals of OF@TEIN+ are achieved accordi
 
 At the end of the project (22 months), the below goals will be achieved:
 
-# 1.	Gather and Learn Together:
+### 1.	Gather and Learn Together:
 i.	Annual meeting #1 (Kuala Lumpur): Deliver training for accessing the playground through access center and access boxes for all members (up to 20 international participants)
 ii.	Annual meeting #2 (Bangkok): Deliver training for utilizing initial shared DataLake for all members (up to 48 international participants)
 iii.	Collaboration Workshop #1 - Co-located with APAN 44: Management planning, meeting and Deliver training for ambassador (up to 9 participants)
