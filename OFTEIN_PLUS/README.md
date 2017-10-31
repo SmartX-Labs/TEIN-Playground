@@ -13,8 +13,6 @@ MYREN Network and Distributed WG Chair
 
 ![oftein sponsored](https://user-images.githubusercontent.com/30137669/32134370-045b01b4-bc27-11e7-8c16-709b1ea53b3a.png)l
 ![from oftein to oftein](https://user-images.githubusercontent.com/30137669/32134393-71489106-bc27-11e7-985a-8716c0c5260f.png)
-![openfederation_oftein](https://user-images.githubusercontent.com/30137669/32134429-5a71dc70-bc28-11e7-9fc5-6e27742380dd.png)
-
 
 # 1   Executive Summary
 
