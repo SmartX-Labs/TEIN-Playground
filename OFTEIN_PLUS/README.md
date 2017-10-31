@@ -69,8 +69,8 @@ At the end of the project (22 months), the below goals will be achieved:
 1.	Gather and Learn Together:
 
 i.	Annual meeting #1 (Kuala Lumpur): Deliver training for accessing the playground through access center and access boxes for all members (up to 20 international participants)
-ii.	Annual meeting #2 (Bangkok): Deliver training for utilizing initial shared DataLake for all members (up to 48 international participants)
-iii.	Collaboration Workshop #1 - Co-located with APAN 44: Management planning, meeting and Deliver training for ambassador (up to 9 participants)
+ ii.	Annual meeting #2 (Bangkok): Deliver training for utilizing initial shared DataLake for all members (up to 48 international participants)
+ iii.	Collaboration Workshop #1 - Co-located with APAN 44: Management planning, meeting and Deliver training for ambassador (up to 9 participants)
 iv.	Collaboration Workshop #2 - Co-located with APAN 45/46: Management planning, meeting and Deliver training for ambassador (up to 18 participants)
 v.	Ambassador Programs: ambassador (up to 15) for promoting/installing/maintaining/ monitoring/training the boxes.
 
@@ -87,11 +87,11 @@ ii.	Establishment of Initial DataLake for site-to-site Inter-Connection troubles
 iii.	Establishment of High-availability DataLake (up to 2 sites) for joint operation troubleshooting (underlay and overlay playground)
 
 4.	Play and Visualize Together:
-i.	Developers (up to 22 groups) from all the community members to propose their experiments or to develop visualizations
-ii.	Students (up to 6) for actively proposing new solutions to be deployed in the playground
+ i.	Developers (up to 22 groups) from all the community members to propose their experiments or to develop visualizations
+ ii.	Students (up to 6) for actively proposing new solutions to be deployed in the playground
 
 5.	Investigate and Enrich Together:
-i.	Enhancing SDX-based deployment: Solutions/designs/plans (up to 2) to be deployed
-ii.	Initial deployment of SOC: Deployment sites (up to 3 sites) for initial security collection
+ i.	Enhancing SDX-based deployment: Solutions/designs/plans (up to 2) to be deployed
+ ii.	Initial deployment of SOC: Deployment sites (up to 3 sites) for initial security collection
 
 
