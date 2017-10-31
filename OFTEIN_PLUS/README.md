@@ -7,7 +7,7 @@ University of Malaya, Malaysia
 APAN Network Research Workshop Co-Chair
 MYREN Network and Distributed WG Chair 
  and 
-### Co-PI: JongWon Kim, jongwon@gist.ac.kr, Tel: +82-10-7930-2837
+### Co-PI: JongWon Kim, jongwon@gist.ac.kr, 
  Professor, School of Information & Communications, GIST, Gwangju, KOREA
  APAN Technology Area Director (2014~) & APAN Cloud WG Co-Chair (2014~)
 
@@ -38,7 +38,26 @@ In order to bring OF@TEIN+ to a greater height, a project team with members from
 
 TEAM MEMBERS: 
 
-![oftein mailinglist_2](https://user-images.githubusercontent.com/30137669/32212914-63420e5c-be5c-11e7-9a3b-79e3e6e6a738.png)
+Aung Htein Maw, PhD (UCSY, Myanmar)
+Bayani Benjamin Lara (ASTI, Philippines)
+Bo Shik Shin (KOREN-NOC, Korea) 
+Chaodit Aswakul, PhD (Chulalongkorn University, Thailand)
+Chu-Sing Yang, PhD (National Cheng Kung University, Taiwan)
+Chun-Yong Chong (Monash Malaysia, Malaysia) 
+Đinh Văn Dũng, PhD (VNU, Vietnam)
+Eueung Mulyana, PhD (ITB, Indonesia) 
+Jiann-Liang Chen, PhD (NTUST, Taiwan)
+Khamxay Leevangtou (NUOL, Laos)
+Li-Der Chou, PhD (NCU, Taiwan)
+Muhammad Tayyab Chaudhry, PhD (CIIT, Lahore, Pakistan)
+Nguyen Huu Thanh, PhD (HUST, Vietnam)
+Panjai Tantatsanawong, PhD (UNINET, Thailand)
+Paventhan Arumugam, PhD (ERNET, India)
+Philip Ho (HKU, HK)
+Su Thawda Win, PhD (UCSM, Myanmar)
+Sunyoung Han, PhD (Konkuk U, Korea)
+Te-Lung Liu, PhD (NCHC, Taiwan)
+Wangcheol Song, PhD (Jeju University, Korea)
 
 
 The project team will ensure the aims and goals of OF@TEIN+ are achieved according to current best practices. 
