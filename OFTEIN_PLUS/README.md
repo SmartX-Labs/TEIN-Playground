@@ -230,9 +230,26 @@ ii.	Students (up to 6) for actively proposing new solutions to be deployed in th
 5.	Investigate and Enrich Together:
 i.	Enhancing SDX-based deployment: Solutions/designs/plans (up to 2) to be deployed
 ii.	Initial deployment of SOC: Deployment sites (up to 3 sites) for initial security collection
+![mileston](https://user-images.githubusercontent.com/30137669/32213070-142dd99e-be5d-11e7-8ebd-3a7fa349bb1b.png)
 
+# 8	Visibility
+1. 	Leverage Github to be the open collaboration platform.
+2.	A specific Facebook page will be created to promote, share and record all activities for this project. (Videos, Photos, Articles, …) and linked to TEIN*CC and all collaborator sites. 
+3.	Project leaflets, conference/journal publications, invited talks, testimony from each participant site.
+4.	Publicities in local and international meeting and conferences.
 
+# 9	Financial contact point
+Dr Ling Teck Chaw
+Associate Professor
+University of Malaya
+50603, Kuala Lumpur, Malaysia
+e-mail: tchaw@um.edu.my
+Mobile Phone: +6012-9101519
+Office Phone: +603-79676362
 
+	# 10	Glossary
+ 
+ ![glossary](https://user-images.githubusercontent.com/30137669/32213126-5b6dbb3a-be5d-11e7-90dc-0d7fdacbc28e.png)
 
 
 
