@@ -93,7 +93,7 @@ Many success stories have been achieved by this project:  A) An overlay-based vi
 
 As OF@TEIN project has completed with many success stories, “OF@TEIN+: Open/Federated Playgrounds for Future Networks” is proposed to further enhance, extend and expand OF@TEIN. The main purpose of OF@TEIN+ is to build and operate an Open and Federated Future Internet (SDN/ NFV/Cloud-integrated) Testbed in further promoting SDN-Cloud R&D collaboration among TEIN partners.
 
-4.	Project Partners and Team Members
+# 4.	Project Partners and Team Members
 
 Project partners from OF@TEIN will continue to participate in OF@TEIN+. These partners are:
 
@@ -156,7 +156,7 @@ Wangcheol Song, PhD (Jeju University, Korea)
 The project team will ensure the aims and goals of OF@TEIN+ are achieved according to the current best practices.
 
 
-5.	Project Motivation and Goals
+# 5.	Project Motivation and Goals
 As presented in the project partners section, the partners of OF@TEIN+ can be divided into three different economy types.  Korea and Taiwan are from developed country, whereas from developing countries are India, Indonesia, Malaysia, Philippines, Thailand, Vietnam, and Pakistan. From least developed countries are Laos and Myanmar.  This is an important attempt in resource sharing and research collaboration across 3 different economy types. As such, the motivations of this project are as follow:
 
 1.	Cloud enables economical & flexible shared cyber-infrastructure: Cloud represents the future paradigm of on-demand access to converged/virtualized (in terms of compute/networking/ storage) resources, shared data and information, and a usage-based billing model. Thus, based on cloud infrastructure/platform/software as a service, diverse services could be easily and economically realized in most academic, government and industry sectors.
@@ -174,7 +174,7 @@ With a strong collaborative experience of OF@TEIN partners working together, the
 5.	Investigate and Enrich Together: Investigate selected building-block topics on Future Network technology and attempt to enhance the playground capability/agility by applying the investigation outcomes.
 
 
-6.	Program of Works and Timeline
+# 6.	Program of Works and Timeline
 
 This proposed project is meant for 22 months. The preliminary tasks are:
 
@@ -207,7 +207,7 @@ This proposed project is meant for 22 months. The preliminary tasks are:
 5 – 2	[M1 – M22] SD-Security with Security Operation Center (SOC) Investigation by building a shared platform to exchange important information (i.e., service status and system security) amongst all playground collaborators. Hence, the Security Operation Center is established to inspect the analysis results from DataLake, aggregate the results, and present the views the security aspect of the playground such as anomaly detection, security warning, and vulnerabilities attack.
 
 
-7.	Project Deliverables and Milestones (22 months)
+# 7.	Project Deliverables and Milestones (22 months)
 At the end of the project (22 months), the below goals will be achieved:
 
 1.	Gather and Learn Together:
@@ -247,7 +247,7 @@ e-mail: tchaw@um.edu.my
 Mobile Phone: +6012-9101519
 Office Phone: +603-79676362
 
-	# 10	Glossary
+# 10	Glossary
  
  ![glossary](https://user-images.githubusercontent.com/30137669/32213126-5b6dbb3a-be5d-11e7-90dc-0d7fdacbc28e.png)
 
