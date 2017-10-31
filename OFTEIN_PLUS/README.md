@@ -7,7 +7,7 @@ University of Malaya, Malaysia
 APAN Network Research Workshop Co-Chair
 MYREN Network and Distributed WG Chair 
  and 
-### Co-PI: JongWon Kim, jongwon@gist.ac.kr, 
+### Co-PI: JongWon Kim, jongwon@gist.ac.kr, Tel: +82-62-715-2219
  Professor, School of Information & Communications, GIST, Gwangju, KOREA
  APAN Technology Area Director (2014~) & APAN Cloud WG Co-Chair (2014~)
 
