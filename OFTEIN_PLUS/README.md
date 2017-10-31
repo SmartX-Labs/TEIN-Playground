@@ -63,7 +63,8 @@ Wangcheol Song, PhD (Jeju University, Korea)
 The project team will ensure the aims and goals of OF@TEIN+ are achieved according to current best practices. 
 At the end of the project (22 months), the below goals will be achieved:
 
-![goals](https://user-images.githubusercontent.com/30137669/32214040-ec3334bc-be60-11e7-9c62-cbe5ffaea018.png)
+![goals](https://user-images.githubusercontent.com/30137669/32214117-1f1b4ba8-be61-11e7-8f7b-36d3f4986c1f.png)
+
 
 
 
